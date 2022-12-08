@@ -8,3 +8,5 @@
 niemamao/niemamao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Genshin Impact Player](https://genshin-card.getloli.com/rand/164720095.png)
